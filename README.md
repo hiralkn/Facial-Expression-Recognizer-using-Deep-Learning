@@ -7,4 +7,4 @@ Data is divided into two folders train and test which are further divided into 7
 7 facial expressions.
 EfficientNetB2 is used as a backbone model.
 Tensorflow , cv2 and dlib libraries are used for real time predictions.
-
+This is a guided project that I have followed from Data Is Good Academy.
